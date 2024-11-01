@@ -1,0 +1,1431 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: The sixtyseven song requester\n"
+"POT-Creation-Date: 2018-11-28 12:40+0100\n"
+"PO-Revision-Date: 2018-11-28 12:43+0100\n"
+"Last-Translator: \n"
+"Language-Team: André R. Kohl\n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: ss_song_requester.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: admin/class-ss_song_requester-admin.php:166
+msgid "Argentina"
+msgstr "Argentinien"
+
+#: admin/class-ss_song_requester-admin.php:167
+msgid "Australia"
+msgstr "Australien"
+
+#: admin/class-ss_song_requester-admin.php:168
+msgid "Austria"
+msgstr "Österreich"
+
+#: admin/class-ss_song_requester-admin.php:169
+msgid "Belgium"
+msgstr "Belgien"
+
+#: admin/class-ss_song_requester-admin.php:170
+msgid "Brazil"
+msgstr "Brasilien"
+
+#: admin/class-ss_song_requester-admin.php:171
+msgid "Canada"
+msgstr "Kanada"
+
+#: admin/class-ss_song_requester-admin.php:172
+msgid "Chile"
+msgstr "Chile"
+
+#: admin/class-ss_song_requester-admin.php:173
+msgid "Colombia"
+msgstr "Kolumbien"
+
+#: admin/class-ss_song_requester-admin.php:174
+msgid "Costa Rica"
+msgstr "Costa Rica"
+
+#: admin/class-ss_song_requester-admin.php:175
+msgid "Croatia"
+msgstr "Kroatien"
+
+#: admin/class-ss_song_requester-admin.php:176
+msgid "Czech Republic"
+msgstr "Tschechien"
+
+#: admin/class-ss_song_requester-admin.php:177
+msgid "Denmark"
+msgstr "Dänemark"
+
+#: admin/class-ss_song_requester-admin.php:178
+msgid "El Salvador"
+msgstr "El Salvador"
+
+#: admin/class-ss_song_requester-admin.php:179
+msgid "Finland"
+msgstr "Finnland"
+
+#: admin/class-ss_song_requester-admin.php:180
+msgid "France"
+msgstr "Frankreich"
+
+#: admin/class-ss_song_requester-admin.php:181
+msgid "Germany"
+msgstr "Deutschland"
+
+#: admin/class-ss_song_requester-admin.php:182
+msgid "Greece"
+msgstr "Griechenland"
+
+#: admin/class-ss_song_requester-admin.php:183
+msgid "Guatemala"
+msgstr "Guatemala"
+
+#: admin/class-ss_song_requester-admin.php:184
+msgid "Hong Kong"
+msgstr "Hong Kong"
+
+#: admin/class-ss_song_requester-admin.php:185
+msgid "Hungary"
+msgstr "Ungarn"
+
+#: admin/class-ss_song_requester-admin.php:186
+msgid "India"
+msgstr "Indien"
+
+#: admin/class-ss_song_requester-admin.php:187
+msgid "Indonesia"
+msgstr "Indonesien"
+
+#: admin/class-ss_song_requester-admin.php:188
+msgid "Ireland"
+msgstr "Irland"
+
+#: admin/class-ss_song_requester-admin.php:189
+msgid "Israel"
+msgstr "Israel"
+
+#: admin/class-ss_song_requester-admin.php:190
+msgid "Italy"
+msgstr "Italien"
+
+#: admin/class-ss_song_requester-admin.php:191
+msgid "Japan"
+msgstr "Japan"
+
+#: admin/class-ss_song_requester-admin.php:192
+msgid "Republic of Korea"
+msgstr "Republik Korea"
+
+#: admin/class-ss_song_requester-admin.php:193
+msgid "Kuwait"
+msgstr "Kuwait"
+
+#: admin/class-ss_song_requester-admin.php:194
+msgid "Lebanon"
+msgstr "Libanon"
+
+#: admin/class-ss_song_requester-admin.php:195
+msgid "Luxembourg"
+msgstr "Luxemburg"
+
+#: admin/class-ss_song_requester-admin.php:196
+msgid "Malaysia"
+msgstr "Malaysia"
+
+#: admin/class-ss_song_requester-admin.php:197
+msgid "Mexico"
+msgstr "Mexiko"
+
+#: admin/class-ss_song_requester-admin.php:198
+msgid "Netherlands"
+msgstr "Niederlande"
+
+#: admin/class-ss_song_requester-admin.php:199
+msgid "New Zealand"
+msgstr "Neuseeland"
+
+#: admin/class-ss_song_requester-admin.php:200
+msgid "Norway"
+msgstr "Norwegen"
+
+#: admin/class-ss_song_requester-admin.php:201
+msgid "Pakistan"
+msgstr "Pakistan"
+
+#: admin/class-ss_song_requester-admin.php:202
+msgid "Panama"
+msgstr "Panama"
+
+#: admin/class-ss_song_requester-admin.php:203
+msgid "Peru"
+msgstr "Peru"
+
+#: admin/class-ss_song_requester-admin.php:204
+msgid "Philippines"
+msgstr "Philippinen"
+
+#: admin/class-ss_song_requester-admin.php:205
+msgid "Poland"
+msgstr "Polen"
+
+#: admin/class-ss_song_requester-admin.php:206
+msgid "Portugal"
+msgstr "Portugal"
+
+#: admin/class-ss_song_requester-admin.php:207
+msgid "Qatar"
+msgstr "Katar"
+
+#: admin/class-ss_song_requester-admin.php:208
+msgid "Romania"
+msgstr "Rumänien"
+
+#: admin/class-ss_song_requester-admin.php:209
+msgid "Russia"
+msgstr "Russland"
+
+#: admin/class-ss_song_requester-admin.php:210
+msgid "Saudi Arabia"
+msgstr "Saudi-Arabien"
+
+#: admin/class-ss_song_requester-admin.php:211
+msgid "Singapore"
+msgstr "Singapur"
+
+#: admin/class-ss_song_requester-admin.php:212
+msgid "Slovakia"
+msgstr "Slowakei"
+
+#: admin/class-ss_song_requester-admin.php:213
+msgid "Slovenia"
+msgstr "Slowenien"
+
+#: admin/class-ss_song_requester-admin.php:214
+msgid "South Africa"
+msgstr "Südafrika"
+
+#: admin/class-ss_song_requester-admin.php:215
+msgid "Spain"
+msgstr "Spanien"
+
+#: admin/class-ss_song_requester-admin.php:216
+msgid "Sri Lanka"
+msgstr "Sri Lanka"
+
+#: admin/class-ss_song_requester-admin.php:217
+msgid "Sweden"
+msgstr "Schweden"
+
+#: admin/class-ss_song_requester-admin.php:218
+msgid "Switzerland"
+msgstr "Schweiz"
+
+#: admin/class-ss_song_requester-admin.php:219
+msgid "Taiwan"
+msgstr "Taiwan"
+
+#: admin/class-ss_song_requester-admin.php:220
+msgid "Thailand"
+msgstr "Thailand"
+
+#: admin/class-ss_song_requester-admin.php:221
+msgid "Turkey"
+msgstr "Türkei"
+
+#: admin/class-ss_song_requester-admin.php:222
+msgid "United Kingdom"
+msgstr "Großbritannien"
+
+#: admin/class-ss_song_requester-admin.php:223
+msgid "United States"
+msgstr "USA"
+
+#: admin/class-ss_song_requester-admin.php:224
+msgid "United Arab Emirates"
+msgstr "Vereinigte Arabische Emirate"
+
+#: admin/class-ss_song_requester-admin.php:225
+msgid "Venezuela"
+msgstr "Venezuela"
+
+#: admin/class-ss_song_requester-admin.php:226
+msgid "Vietnam"
+msgstr "Vietnam"
+
+#: admin/class-ss_song_requester-admin.php:233
+msgid "Alternative"
+msgstr "Alternative"
+
+#: admin/class-ss_song_requester-admin.php:234
+msgid "Anime"
+msgstr "Anime"
+
+#: admin/class-ss_song_requester-admin.php:235
+msgid "Blues"
+msgstr "Blues"
+
+#: admin/class-ss_song_requester-admin.php:236
+msgid "Brazilian"
+msgstr "Brasiliansiche Musik"
+
+#: admin/class-ss_song_requester-admin.php:237
+msgid "Children Music"
+msgstr "Kindermusik"
+
+#: admin/class-ss_song_requester-admin.php:238
+msgid "Chinese"
+msgstr "Chinesische Musik"
+
+#: admin/class-ss_song_requester-admin.php:239
+msgid "Christian Gospel"
+msgstr "Christliche Musik und Gospel"
+
+#: admin/class-ss_song_requester-admin.php:240
+msgid "Classical"
+msgstr "Klassik"
+
+#: admin/class-ss_song_requester-admin.php:241
+msgid "Comedy"
+msgstr "Comedy"
+
+#: admin/class-ss_song_requester-admin.php:242
+msgid "Country"
+msgstr "Country"
+
+#: admin/class-ss_song_requester-admin.php:243
+msgid "Dance"
+msgstr "Dance"
+
+#: admin/class-ss_song_requester-admin.php:244
+msgid "Disney"
+msgstr "Musik aus Disney-Filmen"
+
+#: admin/class-ss_song_requester-admin.php:245
+msgid "Easy Listening"
+msgstr "Easy Listening"
+
+#: admin/class-ss_song_requester-admin.php:246
+msgid "Electronic"
+msgstr "Elektonische Musik"
+
+#: admin/class-ss_song_requester-admin.php:247
+msgid "Enka"
+msgstr "Japanische Enka Musik"
+
+#: admin/class-ss_song_requester-admin.php:248
+msgid "Fitness and Workout"
+msgstr "Fitness und Sport"
+
+#: admin/class-ss_song_requester-admin.php:249
+msgid "French Pop"
+msgstr "Französischer Pop"
+
+#: admin/class-ss_song_requester-admin.php:250
+msgid "German Folk"
+msgstr "Deutsche Volksmusik"
+
+#: admin/class-ss_song_requester-admin.php:251
+msgid "German Pop"
+msgstr "Deutsche Popmusik"
+
+#: admin/class-ss_song_requester-admin.php:252
+msgid "Hip-Hop, Rap"
+msgstr "Hip-Hop, Rap"
+
+#: admin/class-ss_song_requester-admin.php:253
+msgid "Holiday music"
+msgstr "Weihnachtsmusik"
+
+#: admin/class-ss_song_requester-admin.php:254
+msgid "Indian"
+msgstr "Indische Musik"
+
+#: admin/class-ss_song_requester-admin.php:255
+msgid "Instrumental"
+msgstr "Instrumentalmusik"
+
+#: admin/class-ss_song_requester-admin.php:256
+msgid "J-Pop"
+msgstr "J-Pop"
+
+#: admin/class-ss_song_requester-admin.php:257
+msgid "Jazz"
+msgstr "Jazz"
+
+#: admin/class-ss_song_requester-admin.php:258
+msgid "K-Pop"
+msgstr "K-Pop"
+
+#: admin/class-ss_song_requester-admin.php:259
+msgid "Karaoke"
+msgstr "Karaoke"
+
+#: admin/class-ss_song_requester-admin.php:260
+msgid "Kayokyoku"
+msgstr "Japanische Kayokyoku Musik"
+
+#: admin/class-ss_song_requester-admin.php:261
+msgid "Korean"
+msgstr "Koreanische Musik"
+
+#: admin/class-ss_song_requester-admin.php:262
+msgid "Latino"
+msgstr "Lateinamerikanisch"
+
+#: admin/class-ss_song_requester-admin.php:263
+msgid "New Age"
+msgstr "New Age"
+
+#: admin/class-ss_song_requester-admin.php:264
+msgid "Opera"
+msgstr "Oper"
+
+#: admin/class-ss_song_requester-admin.php:265
+msgid "Pop"
+msgstr "Pop"
+
+#: admin/class-ss_song_requester-admin.php:266
+msgid "R'n'B, Soul"
+msgstr "R'n'B, Soul"
+
+#: admin/class-ss_song_requester-admin.php:267
+msgid "Reggae"
+msgstr "Reggae"
+
+#: admin/class-ss_song_requester-admin.php:268
+msgid "Rock"
+msgstr "Rock"
+
+#: admin/class-ss_song_requester-admin.php:269
+msgid "Singer Songwriter"
+msgstr "Singer Songwriter"
+
+#: admin/class-ss_song_requester-admin.php:270
+msgid "Soundtrack"
+msgstr "Filmmusik"
+
+#: admin/class-ss_song_requester-admin.php:271
+msgid "Spoken Word"
+msgstr "Gesprochen"
+
+#: admin/class-ss_song_requester-admin.php:272
+msgid "Vocal"
+msgstr "Nur Gesang"
+
+#: admin/class-ss_song_requester-admin.php:273
+msgid "World"
+msgstr "Weltmusik"
+
+#: admin/class-ss_song_requester-admin.php:294
+#: admin/class-ss_song_requester-admin.php:427
+msgid "Welcome to the sixtyseven song requester"
+msgstr "Willkommen beim sixtyseven Musikwunsch Plugin"
+
+#: admin/class-ss_song_requester-admin.php:295
+msgid "Song requests"
+msgstr "Musikwünsche"
+
+#: admin/class-ss_song_requester-admin.php:305
+msgid "Currently requested songs"
+msgstr "Aktuell gewünschte Titel"
+
+#: admin/class-ss_song_requester-admin.php:306
+msgid "Current requests"
+msgstr "Aktuelle Wünsche"
+
+#: admin/class-ss_song_requester-admin.php:314
+msgid "Settings for the sixtyseven song requester"
+msgstr "Einstellungen für das sixtyseven Musikwunsch Plugin"
+
+#: admin/class-ss_song_requester-admin.php:315
+#: admin/class-ss_song_requester-admin.php:1301
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: admin/class-ss_song_requester-admin.php:323
+msgid "About the sixtyseven song requester"
+msgstr "Über das sixtyseven Musikwunsch Plugin"
+
+#: admin/class-ss_song_requester-admin.php:324
+msgid "About"
+msgstr "Über das Plugin"
+
+#: admin/class-ss_song_requester-admin.php:332
+#: admin/class-ss_song_requester-admin.php:595
+msgid "Get some demo data to play with"
+msgstr "Erhalte ein paar Demodaten zum Spielen"
+
+#: admin/class-ss_song_requester-admin.php:333
+msgid "Demo data"
+msgstr "Demodaten"
+
+#: admin/class-ss_song_requester-admin.php:359
+#: admin/class-ss_song_requester-admin.php:847
+msgid "Requests per page"
+msgstr "Einträge pro Seite"
+
+#: admin/class-ss_song_requester-admin.php:395
+msgid "Welcome"
+msgstr "Willkommen"
+
+#: admin/class-ss_song_requester-admin.php:402
+msgid "How to use"
+msgstr "Benutzung"
+
+#: admin/class-ss_song_requester-admin.php:409
+#: admin/class-ss_song_requester-admin.php:1286
+msgid "Support"
+msgstr "Support"
+
+#: admin/class-ss_song_requester-admin.php:416
+msgid "Credits"
+msgstr "Danksagungen"
+
+#: admin/class-ss_song_requester-admin.php:425
+msgid "Version"
+msgstr "Version"
+
+#: admin/class-ss_song_requester-admin.php:429
+msgid ""
+"The sixtyseven song requester plugin was originally created as a tool to "
+"manage the song requests on the programmer's wedding. The goal was to give "
+"the attending guests a nice way to make a song request to the DJ without "
+"even leaving the table. It offers the ability to mark songs as played by the "
+"DJ and some basic settings. Everything can be fully achieved in the "
+"frontend, so you do not need to give your DJ access to the WordPress admin "
+"area, but the plugin has of course the typical admin view of the song "
+"requests as well."
+msgstr ""
+"Das sixtyseven Musikwunsch Plugin wurde ursprünglich erdacht, um die "
+"Musikwünsche auf der Hochzeit des Programmierers zu verwalten. Ziel war es, "
+"den anwesenden Gästen eine einfache Möglichkeit anzubieten, ihre "
+"Musikwünsche zu äußern, ohne dabei auch nur ihren Platz zu verlassen. Das "
+"Plugin bietet dem DJ die Möglichkeit, Musikwünsche als bereits gespielt zu "
+"markieren und liefert dazu einige Einstellmöglichkeiten. Das Plugin ist "
+"vollständig im Frontend zu bedienen, so musst du deinem DJ keinen Zugriff "
+"auf deinen WordPress Admin-Bereich geben. Aber natürlich liefert das Plugin "
+"auch die WordPress-typische Listenansicht aller Musikwünsche."
+
+#: admin/class-ss_song_requester-admin.php:437
+msgid "The sixtyseven song requester is easy to use!"
+msgstr "Das sixtyseven Musikwunsch Plugin ist einfach zu verwenden!"
+
+#: admin/class-ss_song_requester-admin.php:439
+msgid ""
+"The frontend output of this plugin is completely driven by one single "
+"shortcode: [ss_song_requester]. No need for any parameter or complicated "
+"stuff. You can either put this shortcode into a page by hand, or simply "
+"click on the icon <i class=\"fas fa-music\"></i> in the editor to put in the "
+"shortcode automatically."
+msgstr ""
+"Die-Frontendausgabe dieses Plugins wird komplett durch einen einzigen "
+"Shortcode gesteuert: [ss_song_requester]. Irgendwelche Parameter oder "
+"anderes kompliziertes Zeugs werden nicht benötigt. Du kannst diesen "
+"Shortcode ganz einfach per Hand in eine Seite einfügen. Oder du klickst im "
+"Editor auf das Icon <i class=\"fas fa-music\"></i>, um diesen Shortcode "
+"automatisch einzufügen."
+
+#: admin/class-ss_song_requester-admin.php:441
+msgid ""
+"To override the optical appearance of the output, copy the file "
+"ss_song_requester-public.css from the public/css directory of this plugin to "
+"the directory wp-content/themes/yourtheme/css and change everything to your "
+"liking."
+msgstr ""
+"Um die Optik des Plugins zu verändern, kopiere bitte die Datei "
+"ss_song_requester-public.css aus dem public/css Verzeichnis dieses Plugins "
+"in das Verzeichnis  wp-content/themes/namedeinesthemes/css und verändere "
+"alles nach deinen Wünschen."
+
+#: admin/class-ss_song_requester-admin.php:450
+msgid "Support this Plugin"
+msgstr "Unterstütze dieses Plugin"
+
+#: admin/class-ss_song_requester-admin.php:452
+msgid ""
+"It was a great pleasure to develop this plugin, and I gladly give it to the "
+"WordPress community. If you want to support this, please be so kind and give "
+"it a good rating. And while most programmers seem to run only on coffee, I "
+"really like to have a nice german beer every now and then. Feel free to "
+"click the button below"
+msgstr ""
+"Es war mir ein großes Vergnügen, dieses Plugin zu entwickeln, und ich gebe "
+"es gern weiter an die WordPress Community. Wenn du dies unterstützten "
+"möchtest, würde ich mich über eine gute Bewertung sehr freuen. Und während "
+"anscheinend die meisten Programmierer nur mit Kaffee laufen, mag ich hin und "
+"wieder auch sehr gerne ein schönes kaltes Bier. Gerne darfst du auf den "
+"folgenden Button klicken"
+
+#: admin/class-ss_song_requester-admin.php:467
+msgid "Buy me a beer"
+msgstr "Gib mir ein Bier aus"
+
+#: admin/class-ss_song_requester-admin.php:476
+msgid "Credits where credit is due!"
+msgstr "Ehre, wem Ehre gebührt!"
+
+#: admin/class-ss_song_requester-admin.php:478
+msgid ""
+"Plugin development is literally beeing on your own spending a lot of time in "
+"front of a computer screen, forgetting everything else. It takes a special "
+"kind of people to put heartblood into an open source project that most "
+"likely never will give you anything in return, just for the fun of it. "
+"Thanks to the wonderful community around WordPress, I was able to learn a "
+"lot and improved my skills to a level, that I really never expected myself. "
+"So without further ado, here is a shoutout to the people, that are a "
+"valuable part of my development team, presumably without even knowing it."
+msgstr ""
+"Pluginentwicklung bedeutet in der Hauptsache, dass man buchstäblich "
+"andauernd alleine vor einem Computerbildschirm hängt und dabei alles andere "
+"um sich herum vergisst. Man braucht schon ein paar ganz besondere Typen, die "
+"Herzblut in ein Open-Source-Projekt stecken, welches ihnen vermutlich "
+"niemals etwas zurückgeben wird, nur weil sie daran Spaß haben. Dank der "
+"wundervollen Community rund um WordPress war ich in der Lage, eine Menge zu "
+"lernen und meine Fähigkeiten in einem Maße weiter zu entwickeln, welches ich "
+"selbst nicht erwartet hätte. Und deswegen gehen jetzt ohne jedes weitere "
+"Geschwafel ein paar Grüße an diejenigen, die ein wertvoller Teil meines "
+"Teams sind. Obwohl sie das vermutlich nicht einmal ahnen."
+
+#: admin/class-ss_song_requester-admin.php:485
+msgid ""
+"for asking a question regarding song requesting functionality in one of my "
+"facebook groups as the ignitor for this project"
+msgstr ""
+"für seine Frage bezüglich Musikwünschen in einer meiner Facebook-Gruppen, "
+"sozusagen als Initialzünder für dieses Projekt"
+
+#: admin/class-ss_song_requester-admin.php:491
+#, php-format
+msgid ""
+"for coding the plugin %sMusic Request Manager%s years ago, which gave me a "
+"good starting point for the development of my song requester. As we germans "
+"say: No reason for reinventing the wheel"
+msgstr ""
+"für die Programmierung des Plugins %sMusic Request Manager%s vor etlichen "
+"Jahren, welches mir eine ideale Starthilfe für mein Musikwunsch-Plugin gab. "
+"Wie wir Deutschen so treffend sagen: Man muss nicht jedes mal das Rad neu "
+"erfinden"
+
+#: admin/class-ss_song_requester-admin.php:496
+#, php-format
+msgid ""
+"for inventing the fantastic %sfont awesome%s, it almost always satisfies my "
+"icon needs and should be incorporated into the WordPress core, if you ask me."
+msgstr ""
+"für die Erfindung der fantastischen %sfont awesome%s Bibliothek, die mir "
+"fast immer alle meine benötigten Icons liefert. Wenn man mich fragen würde: "
+"Man sollte font awesome in den WordPress Core integrieren."
+
+#: admin/class-ss_song_requester-admin.php:501
+msgid ""
+"a.k.a. Wolfe for his pagination class which was the foundation for the "
+"frontend pagination of this plugin."
+msgstr ""
+"auch bekannt als Wolfe für seine Paginierungs-Klasse, die mir als Grundlage "
+"für die Frontend-Paginierung dieses Plugins diente."
+
+#: admin/class-ss_song_requester-admin.php:507
+#, php-format
+msgid ""
+"for his work with the %sWordPress plugin boilerplate%s, which was the basic "
+"layout structure for all of my plugins ever since."
+msgstr ""
+"für seine Arbeit am %sWordPress Plugin Boilerplate%s, welches ich als "
+"Grundlage für alle meine Plugins verwende, seitdem ich davon erfahren habe."
+
+#: admin/class-ss_song_requester-admin.php:512
+#, php-format
+msgid ""
+"for the %sWordPress plugin boilerplate generator%s, which made working with "
+"Tom McFarlins code even more easy. In former times I used a self coded "
+"generator, but this one is not only more beatiful, but better as well."
+msgstr ""
+"für den %sWordPress Plugin Boilerplate Generator%s, der den Umgang mit Tom "
+"McFarlins Code noch weiter vereinfacht. Früher benutze ich für sowas meinen "
+"eigenen Generator, doch dieser ist nicht nur viel hübscher, sondern auch "
+"besser als mein eigener."
+
+#: admin/class-ss_song_requester-admin.php:517
+#, php-format
+msgid ""
+"for the plugin header image. Bogdan is a young but very talented "
+"photographer, who gives some of his work generously away for free on "
+"%spixabay%s, which is in fact a fantastic ressource for pictures published "
+"under the Creative Commons licence."
+msgstr ""
+"für das Header-Bild des Plugins. Bogdan ist ein junger und sehr talentierter "
+"Fotograf, der großzügiger Weise einige seiner Bilder zur Gratisverwendung "
+"bei %sPixabay%s anbietet. Tatsächlich ist Pixabay eine fantastische Quelle "
+"für Fotos und Grafiken, die unter der Creative Common Lizenz veröffentlicht "
+"werden."
+
+#: admin/class-ss_song_requester-admin.php:529
+#: admin/class-ss_song_requester-admin.php:557
+#: admin/class-ss_song_requester-admin.php:747
+#: admin/class-ss_song_requester-admin.php:1263
+#: includes/shortcodes/shortcode.song_request.php:114
+#, php-format
+msgid "The sixtyseven song requester v. %s is proudly presented by"
+msgstr "Das sixtyseven Musikwunsch-Plugin v. %s wird präsentiert von"
+
+#: admin/class-ss_song_requester-admin.php:596
+#, php-format
+msgid ""
+"When you first install and activate this plugin, you most likely will not "
+"have any song requests. But don't worry, we got you covered. On this page "
+"you can get some song data that you can configure to your liking from "
+"Apple's itunes store's top sellers. Select the country to pull the charts "
+"from, the musical genre and the number of entries and click on the button "
+"labeled %s. You will then see a generated List of entries, that you can "
+"store as current requests by clicking on the button labeled %s."
+msgstr ""
+"Wenn du das Plugin zum ersten mal installierst und aktivierst, wirst du "
+"aller Voraussicht nach noch keine gespeicherten Musikwünsche haben. Doch "
+"keine Sorge, wir haben da mal was vorbereitet. Auf dieser Seite kannst du "
+"ein paar Demo-Daten erhalten, die du nach deinen Wünschen zusammenstellen "
+"kannst, diese werden direkt aus den Top-Titeln im Apple iTunes Store "
+"generiert. Wähle das Land, aus welchem die Charts verwendet werden sollen, "
+"das musikalische Genre sowie die Anzahl der gewünschten Datensätze und "
+"klicke dann auf den Button %s. Du wirst dann eine generierte Liste sehen, "
+"die du als Demo-Daten für deine Musikwünsche verwenden kannst. Klicke dazu "
+"einfach auf den Button mit der Aufschrift %s."
+
+#: admin/class-ss_song_requester-admin.php:596
+#: admin/class-ss_song_requester-admin.php:617
+msgid "Get chart data"
+msgstr "Chart Daten abrufen"
+
+#: admin/class-ss_song_requester-admin.php:596
+#: admin/class-ss_song_requester-admin.php:655
+msgid "Store demo data in table"
+msgstr "Demodaten in Tabelle speichern"
+
+#: admin/class-ss_song_requester-admin.php:601
+msgid "Select country"
+msgstr "Land auswählen"
+
+#: admin/class-ss_song_requester-admin.php:606
+msgid "Select genre"
+msgstr "Genre auswählen"
+
+#: admin/class-ss_song_requester-admin.php:608
+msgid "All genres"
+msgstr "Alle Genres"
+
+#: admin/class-ss_song_requester-admin.php:614
+msgid "Number of Entries"
+msgstr "Anzahl Datensätze"
+
+#: admin/class-ss_song_requester-admin.php:637
+msgid "performed by"
+msgstr "von"
+
+#: admin/class-ss_song_requester-admin.php:643
+#, php-format
+msgid ""
+"There are currently %d requests in your database. If you decide to install "
+"the demo data, the entries will be appended."
+msgstr ""
+"Es befinden sich momentan %d Musikwünsche in der Datenbank. Wenn du dich "
+"entscheidest, die Demo-Daten zu installieren, werden diese Datensätze "
+"angefügt."
+
+#: admin/class-ss_song_requester-admin.php:659
+#, php-format
+msgid ""
+"Sorry, no entries for the genre %s in the country %s found. Try another "
+"combination."
+msgstr ""
+"Sorry, keine Einträge für das Genre %s im Land %s gefunden. Versuche eine "
+"andere Kombination."
+
+#: admin/class-ss_song_requester-admin.php:733
+#, php-format
+msgid "%d new requests have been insertetd into your database."
+msgstr "%d neue Musikwünsche wurden in deine Datenbank geschrieben."
+
+#: admin/class-ss_song_requester-admin.php:736
+#, php-format
+msgid "%d requests have been updated in your database."
+msgstr "%d Musikwünsche wurden in deiner Datenbank aktualisiert."
+
+#: admin/class-ss_song_requester-admin.php:767
+msgid "General settings"
+msgstr "Allgemeine Einstellungen"
+
+#: admin/class-ss_song_requester-admin.php:775
+msgid "Request form"
+msgstr "Musikwunsch Formular"
+
+#: admin/class-ss_song_requester-admin.php:784
+msgid "Uninstall behaviour"
+msgstr "Verhalten beim Deinstalieren"
+
+#: admin/class-ss_song_requester-admin.php:793
+msgid "Access to settings page"
+msgstr "Zugriff auf die Einstellungen"
+
+#: admin/class-ss_song_requester-admin.php:802
+msgid "Manage requests"
+msgstr "Musikwünsche verwalten"
+
+#: admin/class-ss_song_requester-admin.php:811
+msgid "Autoload intervall"
+msgstr "Autoload Intervall"
+
+#: admin/class-ss_song_requester-admin.php:820
+msgid "Notification bubble background color"
+msgstr "Hintergrundfarbe der Hinweisblase"
+
+#: admin/class-ss_song_requester-admin.php:829
+msgid "Notification bubble text color"
+msgstr "Textfarbe der Hinweisblase"
+
+#: admin/class-ss_song_requester-admin.php:838
+msgid "Allow backlink"
+msgstr "Erlaube Backlink"
+
+#: admin/class-ss_song_requester-admin.php:856
+msgid "Frontend Sort type"
+msgstr "Sortierungstyp im Frontend"
+
+#: admin/class-ss_song_requester-admin.php:865
+msgid "Frontend Sort order direction"
+msgstr "Sortierungsrichtung im Frontend"
+
+#: admin/class-ss_song_requester-admin.php:877
+msgid "Manage the settings of the plugin here."
+msgstr "Verwalte hier die Einstellungen des Musikwunsch Plugins."
+
+#: admin/class-ss_song_requester-admin.php:887
+msgid "Song requests are possible"
+msgstr "Musikwünsche sind möglich"
+
+#: admin/class-ss_song_requester-admin.php:889
+msgid "Song requests are NOT possible"
+msgstr "Musikwünsche sind NICHT möglich"
+
+#: admin/class-ss_song_requester-admin.php:891
+msgid ""
+"Select if you want to allow new song requests. If requests are not possible, "
+"only the list of current requests will be shown in the frontend (if any), "
+"and the upvoting function will be disabled."
+msgstr ""
+"Wähle hier aus, ob du neue Wünsche erlauben möchtest. Wenn Musikwünsche "
+"nicht möglich sind, wird im Frontend nur die Liste der aktuellen Wünsche "
+"angezeigt (sofern vorhanden) und die \"Gefällt mir\" Funktion wird "
+"deaktiviert."
+
+#: admin/class-ss_song_requester-admin.php:901
+msgid "Keep options and database tables"
+msgstr "Optionen und Datenbank-Tabellen behalten"
+
+#: admin/class-ss_song_requester-admin.php:903
+msgid "Drop options and database tables"
+msgstr "Optionen und Datenbank-Tabellen verwerfen"
+
+#: admin/class-ss_song_requester-admin.php:905
+msgid ""
+"Select if you want to keep the plugin options and database tables during "
+"uninstall for later use."
+msgstr ""
+"Wähle hier aus, ob du Einstellungen und Tabellen beim Löschen des Plugins "
+"für spätere erneute Verwendung behalten möchtest."
+
+#: admin/class-ss_song_requester-admin.php:926
+msgid ""
+"Check all user roles that should have access to the plugin settings page. As "
+"an administrator, you will allways have access to this page."
+msgstr ""
+"Markiere alle Benutzerrollen, die Zugriff auf die Einstellungen des Plugins "
+"haben sollen. Als Administrator wirst du immer auf die Einstellungen "
+"zugreifen können."
+
+#: admin/class-ss_song_requester-admin.php:947
+msgid ""
+"Check all user roles that should manage the song requests. As an "
+"administrator, you can allways manage the requests."
+msgstr ""
+"Markiere alle Benutzerrollen, die die Musikwünsche verwalten sollen. Als "
+"Administrator wirst du die Musikwünsche in jedem Fall verwalten können."
+
+#: admin/class-ss_song_requester-admin.php:956
+msgid "seconds"
+msgstr "Sekunden"
+
+#: admin/class-ss_song_requester-admin.php:960
+msgid ""
+"The autoload intervall is the time that passes by before the song request "
+"list is reloaded via ajax to show the newest requests. However, if you have "
+"sufficient rights, you can allways reload this list as well with a click on "
+"a button."
+msgstr ""
+"Das Autoload Intervall ist die Zeit, die verstreicht, ehe die "
+"Musikwunschliste per Ajax neu geladen wird, um die aktuellsten Musikwünsche "
+"anzuzeigen. Wenn du über ausreichende Rechte verfügst, kannst du dieses "
+"jedoch zu jeder Zeit auch über einen Klick auf einen Button manuell auslösen."
+
+#: admin/class-ss_song_requester-admin.php:973
+msgid "Select the background color of the song requests notification bubble"
+msgstr ""
+"Wähle die Hintergrundfarbe für den Hinweis auf die Anzahl der Musikwünsche"
+
+#: admin/class-ss_song_requester-admin.php:988
+msgid "Select the text color of the song requests notification bubble"
+msgstr "Wähle die Textfarbe für den Hinweis auf die Anzahl der Musikwünsche"
+
+#: admin/class-ss_song_requester-admin.php:998
+#, php-format
+msgid ""
+"Yes, I support the plugin and allow a small link to the %sdeveloper%s at the "
+"footer of the plugin's output, in the frontent as well as in the backend"
+msgstr ""
+"Ja, ich unterstütze das Plugin und erlaube einen kleinen Link zum "
+"%sEntwickler%s unterhalb der Ausgabe des Plugins, im Frontent der Seite "
+"ebenso wie im Admin-Bereich"
+
+#: admin/class-ss_song_requester-admin.php:1000
+msgid ""
+"Yes, I support the plugin, but do not show that link on my public facing "
+"website"
+msgstr ""
+"Ja, ich unterstütze das Plugin, aber bitte kein Link auf meinen öffentlich "
+"sichtbaren Seiten"
+
+#: admin/class-ss_song_requester-admin.php:1003
+msgid ""
+"Yes, I support the plugin, but do not show that link in the plugin's admin "
+"pages"
+msgstr ""
+"Ja, ich unterstütze das Plugin, aber bitte kein Link innerhalb meines Admin-"
+"Bereichs"
+
+#: admin/class-ss_song_requester-admin.php:1005
+msgid "No, please do not put any additional link on my page"
+msgstr "Nein, bitte keine weiteren Links auf meiner Seite"
+
+#: admin/class-ss_song_requester-admin.php:1020
+msgid ""
+"Select the number of requests on one page in the frontend. Minimal value is "
+"1, 99 means all requests on one page."
+msgstr ""
+"Wähle die Anzahl der Musikwünsche auf einer Seite im Frontend. Die kleinste "
+"mögliche Zahl ist 1, bei 99 werden alle gespeicherten Musikwünsche auf einer "
+"Seite angezeigt."
+
+#: admin/class-ss_song_requester-admin.php:1031
+msgid "Title of the song"
+msgstr "Titel des Musikwunsches"
+
+#: admin/class-ss_song_requester-admin.php:1032
+msgid "Name of the Artist"
+msgstr "Name des Interpreten"
+
+#: admin/class-ss_song_requester-admin.php:1033
+msgid "Count of requests"
+msgstr "Anzahl der Wünsche"
+
+#: admin/class-ss_song_requester-admin.php:1034
+msgid "Last played"
+msgstr "Zuletzt gespielt"
+
+#: admin/class-ss_song_requester-admin.php:1035
+msgid "Order of requests"
+msgstr "Reihenfolge des Eingangs"
+
+#: admin/class-ss_song_requester-admin.php:1038
+msgid ""
+"According to what database field should the requests list be sorted in the "
+"frontend as default?"
+msgstr ""
+"Nach welchem Datenbankfeld sollen die Musikwünsche im Frontend sortiert "
+"werden?"
+
+#: admin/class-ss_song_requester-admin.php:1048
+msgid "Ascending"
+msgstr "Aufsteigend"
+
+#: admin/class-ss_song_requester-admin.php:1050
+msgid "Descending"
+msgstr "Absteigend"
+
+#: admin/class-ss_song_requester-admin.php:1214
+#: includes/shortcodes/shortcode.song_request.php:78
+msgid "OK"
+msgstr "OK"
+
+#: admin/class-ss_song_requester-admin.php:1215
+#: includes/shortcodes/shortcode.song_request.php:79
+msgid "Cancel"
+msgstr "Abbrechen"
+
+#: admin/class-ss_song_requester-admin.php:1216
+#: includes/shortcodes/shortcode.song_request.php:80
+msgid "Saving ..."
+msgstr "Verarbeitung läuft …."
+
+#: admin/class-ss_song_requester-admin.php:1217
+#: includes/shortcodes/shortcode.song_request.php:81
+msgid "Click to correct this"
+msgstr "Klicken zum Korrigieren"
+
+#: admin/class-ss_song_requester-admin.php:1251
+msgid "Current song requests"
+msgstr "Aktuelle Wünsche"
+
+#: admin/class-ss_song_requester-admin.php:1255
+msgid "Search request"
+msgstr "Musikwunsch suchen"
+
+#: admin/class-ss_song_requester-admin.php:1289
+msgid "Thanks"
+msgstr "Danke"
+
+#: admin/class-ss_song_requester-admin.php:1403
+msgid "General"
+msgstr "Allgemein"
+
+#: admin/class-ss_song_requester-admin.php:1405
+msgid ""
+"Here you can manage your current song requests in the typical wordpress way."
+msgstr ""
+"Hier kannst du deine Musikwünsche in der typischen WordPress Art verwalten."
+
+#: admin/class-ss_song_requester-admin.php:1409
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: admin/class-ss_song_requester-admin.php:1411
+msgid ""
+"You can edit the artist name and the title without leaving the list view."
+msgstr ""
+"Du kannst sowohl den Namen des Interpreten als auch den Titel des Liedes "
+"ändern, ohne die Listenansicht zu verlassen."
+
+#: admin/class-ss_song_requester-admin.php:1423
+msgid "Presented by:"
+msgstr "Präsentiert von:"
+
+#: admin/class-ss_song_requester-admin.php:1423
+msgid "Logo sixtyseven multimedia"
+msgstr "Logo sixtyseven multimedia"
+
+#: admin/class-ss_song_requester-admin.php:1423
+msgid "Visit Website"
+msgstr "Webseite besuchen"
+
+#: admin/class-ss_song_requester-admin.php:1436
+msgid ""
+"Normally it is not nesseccary to give your DJ access to the WordPress "
+"administration area. Everything you can do here can as well be done via Ajax "
+"calls in the frontend. But hey, now that you are here, we can as well build "
+"a nice list table. You can sort the song requests ascending or decending by "
+"clicking on the respective column header. When hovering over the headings, "
+"you will see a little arrow as an indicator of the sort direction."
+msgstr ""
+"Im Normalfall wird es nicht nötig sein, deinem DJ Zugriff auf die WordPress-"
+"Administrationsoberfläche zu geben. Alles was man im Admin tun kann, kann "
+"auch über AJAX-Funktionen im Frontend erreicht werden. Aber hey, wo du schon "
+"mal hier bist, können wir jetzt auch eine hübsche Listenansicht ausgeben. Du "
+"kannst die Musikwünsche auf- oder absteigend sortieren, indem du auf die "
+"entsprechende Tabellenüberschrift klickst. Bei Mausberührung zeigt ein "
+"kleiner Pfeil die Sortierrichtung an."
+
+#: admin/class-ss_song_requester-admin.php:1449
+msgid ""
+"Click on the artist name or title that you want to change. Immediatlely an "
+"input field and two buttons appear. Make your desired changes and click on "
+"the button labeled OK to save the new value. Click on the button labeled "
+"cancel to abbort the action and close the edit mode."
+msgstr ""
+"Klicke auf den Namen des Interpreten oder den Titel, den du ändern willst. "
+"Es erscheinen ein Eingabefeld und zwei Schaltflächen. Nimm deine Änderungen "
+"vor und klicke dann auf den Button mit der Aufschrift OK, um den neuen Wert "
+"zu speichern. Klicke auf Abbrechen, um den Editiermodus wieder zu verlassen."
+
+#: admin/ss_song_requester_mcelang.php:13
+msgid "Hello World!"
+msgstr "Hallo Welt!"
+
+#: admin/ss_song_requester_mcelang.php:14
+msgid "Insert Song Requests Shortcode"
+msgstr "Shortcode für die Musikwunschliste einfügen"
+
+#: includes/class-ss_song_requester-list-table.php:86
+msgid "ID"
+msgstr "ID"
+
+#: includes/class-ss_song_requester-list-table.php:87
+msgid "Title"
+msgstr "Titel"
+
+#: includes/class-ss_song_requester-list-table.php:88
+#: includes/shortcodes/shortcode.song_request.php:679
+#: includes/shortcodes/shortcode.song_request.php:719
+#: includes/shortcodes/shortcode.song_request.php:722
+msgid "Artist"
+msgstr "Interpret"
+
+#: includes/class-ss_song_requester-list-table.php:89
+#: includes/shortcodes/shortcode.song_request.php:685
+#: includes/shortcodes/shortcode.song_request.php:730
+msgid "Played"
+msgstr "Gespielt"
+
+#: includes/class-ss_song_requester-list-table.php:90
+msgid "Whished"
+msgstr "Gewünscht"
+
+#: includes/class-ss_song_requester-list-table.php:91
+msgid "Action"
+msgstr "Aktionen"
+
+#: includes/class-ss_song_requester-list-table.php:205
+#: includes/shortcodes/shortcode.song_request.php:73
+msgid "Are you sure to delete this song request? This can not be undone!"
+msgstr ""
+"Möchtest du diesen Musikwunsch wirklich löschen? Dies kann nicht rückgängig "
+"gemacht werden!"
+
+#: includes/class-ss_song_requester-list-table.php:205
+msgid "Delete"
+msgstr "Löschen"
+
+#: includes/class-ss_song_requester-list-table.php:208
+msgid "Mark as not yet played"
+msgstr "Song als noch nicht gespielt markieren"
+
+#: includes/class-ss_song_requester-list-table.php:210
+msgid "Mark as played"
+msgstr "Song als gespielt markieren"
+
+#: includes/class-ss_song_requester-list-table.php:217
+#: includes/shortcodes/shortcode.song_request.php:372
+#: includes/shortcodes/shortcode.song_request.php:710
+#, php-format
+msgid "%s ago"
+msgstr "vor %s"
+
+#: includes/class-ss_song_requester-list-table.php:219
+msgid "Not yet"
+msgstr "noch nicht"
+
+#: includes/class-ss_song_requester-list-table.php:282
+msgid "Delete requests"
+msgstr "Musikwünsche löschen"
+
+#: includes/class-ss_song_requester-list-table.php:283
+msgid "Mark requests as played"
+msgstr "Songs als gespielt markieren"
+
+#: includes/class-ss_song_requester-list-table.php:284
+msgid "Mark requests as not yet played"
+msgstr "Songs als noch nicht gespielt markieren"
+
+#: includes/class-ss_song_requester-list-table.php:307
+#: includes/class-ss_song_requester-list-table.php:340
+#: includes/class-ss_song_requester-list-table.php:373
+#: includes/class-ss_song_requester-list-table.php:407
+#: includes/class-ss_song_requester-list-table.php:453
+#: includes/class-ss_song_requester-list-table.php:502
+#: includes/class-ss_song_requester.php:85
+#: includes/class-ss_song_requester.php:93
+msgid "Cheating, huh?"
+msgstr "Schummeln, hm?"
+
+#: includes/class-ss_song_requester-list-table.php:316
+#: includes/class-ss_song_requester-list-table.php:421
+#, php-format
+msgid "Sorry, the song &quot;%s&quot; by %s could not be deleted."
+msgstr "Sorry, der Titel &quot;%s&quot; von %s kann nicht gelöscht werden."
+
+#: includes/class-ss_song_requester-list-table.php:321
+#, php-format
+msgid "The song &quot;%s&quot; by %s was successfully deleted."
+msgstr "Der Titel &quot;%s&quot; von %s wurde erfolgreich gelöscht."
+
+#: includes/class-ss_song_requester-list-table.php:349
+#: includes/class-ss_song_requester-list-table.php:470
+#, php-format
+msgid "Sorry, the song &quot;%s&quot; by %s could not be marked as played."
+msgstr ""
+"Sorry, der Titel &quot;%s&quot; von %s kann nicht als bereits gespielt "
+"markiert werden."
+
+#: includes/class-ss_song_requester-list-table.php:354
+#, php-format
+msgid "The song &quot;%s&quot; by %s was successfully marked as played."
+msgstr ""
+"Der Titel &quot;%s&quot; von %s wurde erfolgreich als bereits gespielt "
+"markiert."
+
+#: includes/class-ss_song_requester-list-table.php:382
+#: includes/class-ss_song_requester-list-table.php:517
+#, php-format
+msgid ""
+"Sorry, the song &quot;%s&quot; by %s could not be marked as not yet played."
+msgstr ""
+"Sorry, der Titel &quot;%s&quot; by %s kann nicht als noch nicht gespielt "
+"markiert werden."
+
+#: includes/class-ss_song_requester-list-table.php:387
+#, php-format
+msgid ""
+"The song &quot;%s&quot; by %s was successfully marked as not yet played."
+msgstr ""
+"Der Titel &quot;%s&quot; by %s wurde erfolgreich als noch nicht gespielt "
+"markiert."
+
+#: includes/class-ss_song_requester-list-table.php:434
+#, php-format
+msgid "One request was successfully deleted."
+msgid_plural "%s requests were successfully deleted."
+msgstr[0] "Ein Musikwunsch wurde erfolgreich gelöscht."
+msgstr[1] "%s Musikwünsche wurden erfolgreich gelöscht."
+
+#: includes/class-ss_song_requester-list-table.php:483
+#, php-format
+msgid "One request was successfully marked as played."
+msgid_plural "%s requests were successfully marked as played."
+msgstr[0] "Ein Musikwunsc wurde erfolgreich als gespielt markiert."
+msgstr[1] "%s Musikwünsche wurden erfolgreich als gespielt markiert."
+
+#: includes/class-ss_song_requester-list-table.php:530
+#, php-format
+msgid "One request was successfully marked as not yet played."
+msgid_plural "%s requests were successfully marked as not yet played."
+msgstr[0] "Ein Musikwunsch wurde erfolgreich als noch nicht gespielt markiert."
+msgstr[1] "%s Musikwünsche wurde erfolgreich als noch nicht gespielt markiert."
+
+#: includes/class-ss_song_requester-list-table.php:562
+msgid "Currently there are no song requests to display."
+msgstr "Im Augenblick sind keine Musikwünsche zum Anzeigen vorhanden."
+
+#: includes/shortcodes/shortcode.song_request.php:64
+msgid "Hide request form"
+msgstr "Formular ausblenden"
+
+#: includes/shortcodes/shortcode.song_request.php:65
+#: includes/shortcodes/shortcode.song_request.php:95
+msgid "Request a song"
+msgstr "Einen Song wünschen"
+
+#: includes/shortcodes/shortcode.song_request.php:66
+#: includes/shortcodes/shortcode.song_request.php:100
+msgid "Request a song now"
+msgstr "Musikwunsch jetzt senden"
+
+#: includes/shortcodes/shortcode.song_request.php:67
+msgid "Try again"
+msgstr "Nochmal versuchen"
+
+#: includes/shortcodes/shortcode.song_request.php:68
+#: includes/shortcodes/shortcode.song_request.php:742
+msgid "Delete this request"
+msgstr "Diesen Musikwunsch löschen"
+
+#: includes/shortcodes/shortcode.song_request.php:69
+#: includes/shortcodes/shortcode.song_request.php:728
+msgid "I want to hear this, too!"
+msgstr "Ich möchte diesen Song auch hören!"
+
+#: includes/shortcodes/shortcode.song_request.php:70
+#: includes/shortcodes/shortcode.song_request.php:735
+msgid "Mark song as played"
+msgstr "Song als gespielt markieren"
+
+#: includes/shortcodes/shortcode.song_request.php:71
+#: includes/shortcodes/shortcode.song_request.php:738
+msgid "Mark song as not yet played"
+msgstr "Song als noch nicht gespielt markieren"
+
+#: includes/shortcodes/shortcode.song_request.php:72
+msgid "Working ..."
+msgstr "Verarbeitung läuft …."
+
+#: includes/shortcodes/shortcode.song_request.php:74
+msgid ""
+"Are you sure to delete the complete request list? This can not be undone!"
+msgstr ""
+"Möchtest du die komplette Liste der Musikwünsche wirklich löschen? Dies kann "
+"nicht rückgängig gemacht werden!"
+
+#: includes/shortcodes/shortcode.song_request.php:75
+msgid "Reloading now ..."
+msgstr "Wird neu geladen ..."
+
+#: includes/shortcodes/shortcode.song_request.php:76
+#: includes/shortcodes/shortcode.song_request.php:781
+msgid "Empty list"
+msgstr "Liste leeren"
+
+#: includes/shortcodes/shortcode.song_request.php:77
+#: includes/shortcodes/shortcode.song_request.php:781
+msgid "Delete the complete list"
+msgstr "Komplette Liste löschen"
+
+#: includes/shortcodes/shortcode.song_request.php:98
+msgid "Enter song title here"
+msgstr "Titel des Musikwunsches hier eingeben"
+
+#: includes/shortcodes/shortcode.song_request.php:98
+#: includes/shortcodes/shortcode.song_request.php:99
+msgid "if known"
+msgstr "falls bekannt"
+
+#: includes/shortcodes/shortcode.song_request.php:99
+msgid "Enter artist here"
+msgstr "Interpreten hier eingeben"
+
+#: includes/shortcodes/shortcode.song_request.php:134
+#: includes/shortcodes/shortcode.song_request.php:224
+#: includes/shortcodes/shortcode.song_request.php:401
+#: includes/shortcodes/shortcode.song_request.php:441
+#: includes/shortcodes/shortcode.song_request.php:481
+#: includes/shortcodes/shortcode.song_request.php:519
+msgid "No cheating please!"
+msgstr "Bitte nicht betrügen!"
+
+#: includes/shortcodes/shortcode.song_request.php:147
+msgid ""
+"You have to provide at least a song title or an artist to request a song!"
+msgstr ""
+"Du musst mindestens den Titel oder den Interpreten deines Musikwunsches "
+"angeben!"
+
+#: includes/shortcodes/shortcode.song_request.php:156
+#, php-format
+msgid "Sorry, we could not find any artist for your requested song %s."
+msgstr ""
+"Entschuldigung, es konnte kein Interpret für den gewünschten Song %s "
+"gefunden werden."
+
+#: includes/shortcodes/shortcode.song_request.php:172
+#, php-format
+msgid "Sorry, we could not find any title for your requested artist %s."
+msgstr ""
+"Entschuldigung, es konnte kein Song für den gewünschten Interpreten %s "
+"gefunden werden."
+
+#: includes/shortcodes/shortcode.song_request.php:198
+#, php-format
+msgid "Thank you, your request for the song %s by %s was added."
+msgstr "Vielen Dank, dein Musikwunsch %s von %s wurde gespeichert."
+
+#: includes/shortcodes/shortcode.song_request.php:203
+#: includes/shortcodes/shortcode.song_request.php:238
+#: includes/shortcodes/shortcode.song_request.php:338
+#: includes/shortcodes/shortcode.song_request.php:363
+#: includes/shortcodes/shortcode.song_request.php:379
+#: includes/shortcodes/shortcode.song_request.php:411
+#: includes/shortcodes/shortcode.song_request.php:451
+#: includes/shortcodes/shortcode.song_request.php:489
+#: includes/shortcodes/shortcode.song_request.php:525
+msgid ""
+"Sorry, there was an error during your song request. Please try again in a "
+"few minutes."
+msgstr ""
+"Entschuldigung, es gab einen Fehler während deiner Songanfrage. Bitte "
+"versuche es in ein paar Minuten noch einmal."
+
+#: includes/shortcodes/shortcode.song_request.php:233
+msgid "Sorry, this song no longer exists."
+msgstr "Entschuldigung, dieser Musikwunsch existiert nicht länger."
+
+#: includes/shortcodes/shortcode.song_request.php:374
+#, php-format
+msgid ""
+"Your requested song %s by %s was allready played %s. Please request another "
+"song, if you like."
+msgstr ""
+"Dein Musikwunsch %s von %s wurde bereits %s gespielt. Bitte wünsche dir "
+"einen anderen Titel, wenn du magst."
+
+#: includes/shortcodes/shortcode.song_request.php:643
+msgid "Entries"
+msgstr "Einträge"
+
+#: includes/shortcodes/shortcode.song_request.php:678
+#: includes/shortcodes/shortcode.song_request.php:718
+#: includes/shortcodes/shortcode.song_request.php:721
+msgid "Song"
+msgstr "Titel"
+
+#: includes/shortcodes/shortcode.song_request.php:684
+#: includes/shortcodes/shortcode.song_request.php:725
+msgid "Requests"
+msgstr "Gewünscht"
+
+#: includes/shortcodes/shortcode.song_request.php:687
+#: includes/shortcodes/shortcode.song_request.php:732
+msgid "Actions"
+msgstr "Aktionen"
+
+#: includes/shortcodes/shortcode.song_request.php:706
+msgid "not yet"
+msgstr "noch nicht"
+
+#: includes/shortcodes/shortcode.song_request.php:725
+msgid "times"
+msgstr "mal"
+
+#: includes/shortcodes/shortcode.song_request.php:728
+msgid "Like it"
+msgstr "Gefällt mir"
+
+#: includes/shortcodes/shortcode.song_request.php:749
+msgid "There are curently no requests."
+msgstr "Aktuell gibt es keine Musikwünsche."
+
+#: includes/shortcodes/shortcode.song_request.php:766
+#, php-format
+msgid "Auto-reload in %s seconds"
+msgstr "Liste wird neu geladen in %s Sekunden"
+
+#: includes/shortcodes/shortcode.song_request.php:775
+msgid "Reload the complete list now"
+msgstr "Die komplette Liste jetzt neu laden"
+
+#: includes/shortcodes/shortcode.song_request.php:775
+msgid "Reload now"
+msgstr "Jetzt neu laden"
+
+#. Plugin Name of the plugin/theme
+msgid "The sixtyseven song requester"
+msgstr "Der sixtyseven Musikwünscher"
+
+#. Plugin URI of the plugin/theme
+msgid "https://www.sixtyseven.info"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Request a song via your website and let your DJ mark them as played"
+msgstr ""
+"Wünsche dir einen Titel und lass deinen DJ diesen als gespielt markieren"
+
+#. Author of the plugin/theme
+msgid "André R. Kohl"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.andre-kohl.de"
+msgstr ""
+
+#~ msgid "Pages"
+#~ msgstr "Seiten"
+
+#~ msgid "Me too!"
+#~ msgstr "Ich auch!"

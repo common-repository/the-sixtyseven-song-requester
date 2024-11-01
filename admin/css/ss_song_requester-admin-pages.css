@@ -1,0 +1,80 @@
+.clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.nav-tab-wrapper {
+    margin-bottom: 20px;
+}
+
+.ample_red {
+    color: #ff0000;
+}
+
+.ample_green {
+    color: #0AB80A;
+}
+.ample_yellow {
+    color: #F9CD11;
+}
+
+/* Welcome page */
+.ss_song_requester_welcome .wp-badge {
+    background-color: #bbff00;
+    background-image: url('../img/badge.png');
+    background-size: 100% auto;
+    background-position: 0 0;
+    padding: 130px 0 0 0;
+    margin: 20px 0 20px 20px;
+    -webkit-box-shadow: 0 0 2px rgba(0,0,0, 0.2);
+            box-shadow: 0 0 2px rgba(0,0,0, 0.2);
+    float: right;
+    border: 2px solid #000;
+}
+
+.ss_song_requester_welcome .wp-badge div {
+	background-color: #000;
+    line-height: 28px;
+    height: 30px;
+    margin-top: 10px;
+}
+
+.ss_about_text {
+    margin-top: 1.4em;
+    font-weight: 400;
+    line-height: 1.6em;
+    font-size: 19px;
+}
+
+/* Credits page */
+.ss_song_requester_credits ul {
+    list-style: disc;
+    margin-left: 15px;
+}
+
+.ss_song_requester_credits ul li a:first-of-type {
+    font-weight: bolder;   
+}
+
+/* Footer line */
+.proudly_presented_by_sixtyseven_mutlimedia {
+    margin-top: 30px;
+    font-style: italic;
+}
+
+span.inlineedit{
+    cursor: pointer;
+}
+
+.inlineedit_cancel {
+    margin-top: 5px !important;
+    color: red !important;
+}
+
+
+.inlineedit_submit {
+    margin-top: 5px!important;
+    margin-right: 5px!important;
+    color: green !important;
+}
